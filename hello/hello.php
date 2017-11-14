@@ -2,6 +2,10 @@
 
 class Movie
 {
+    
+    
+    
+    
     private $name = 'Nom du film';
     private $duration = 120;
     private $description = "une description";
